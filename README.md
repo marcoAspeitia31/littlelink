@@ -14,7 +14,7 @@ LittleLink offers both `light` and `dark` themes right out of the box. If the de
 
 ![Performance](https://cdn.cottle.cloud/littlelink/PerformanceBlock.svg)
 
-LittleLink epitomizes simplicity and minimalism. When evaluating the [LittleLink sample page](https://littlelink.io/sample/seth) (which mirrors a typical LittleLink setup for an individual) through tools such as [Google PageSpeed Insights](https://pagespeed.web.dev/analysis/https-littlelink-io-sample-seth/17ex80ryq4?form_factor=mobile), showcases LittleLink's excellence with 100/100 in Performance, Accessibility, Best Practices, and SEO. My initial vision for LittleLink was to craft it from the fundamentals. I chose [Skeleton](http://getskeleton.com/) as the foundation, enabling me to create something minimal and quick, removing the unnecessary bloat you would get from using a large framework for a page that requires nothing more than simplicity.
+LittleLink epitomizes simplicity and minimalism. When evaluating the [LittleLink sample page](https://info.cideapps.com/sample/seth) (which mirrors a typical LittleLink setup for an individual) through tools such as [Google PageSpeed Insights](https://pagespeed.web.dev/analysis/https-littlelink-io-sample-seth/17ex80ryq4?form_factor=mobile), showcases LittleLink's excellence with 100/100 in Performance, Accessibility, Best Practices, and SEO. My initial vision for LittleLink was to craft it from the fundamentals. I chose [Skeleton](http://getskeleton.com/) as the foundation, enabling me to create something minimal and quick, removing the unnecessary bloat you would get from using a large framework for a page that requires nothing more than simplicity.
 
 ---
 ### ☁️ Deploy
@@ -61,7 +61,7 @@ Duplicate the [LittleLink Template on Figma Community](https://www.figma.com/com
 ---
 
 ### 💖 Supporters
-You can support LittleLink by [buying me a coffee](https://www.buymeacoffee.com/seth). You can also have your name or your company added to this section and the supporters page of the [LittleLink.io](https://littlelink.io) website.
+You can support LittleLink by [buying me a coffee](https://www.buymeacoffee.com/seth). You can also have your name or your company added to this section and the supporters page of the [info.cideapps.com](https://info.cideapps.com) website.
 
 #### 🏢 Business Supporters
 • **[links.dev](https://github.com/fatih-yavuz/links.dev)**
